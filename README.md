@@ -10,3 +10,14 @@ The following constants must be modified in order to deploy:
     BACKGROUND_URL
     
 To build the ransomware and decryptor simply use pyinstaller after installing the required dependencies
+
+
+Import the included .sql file into the mysql database hosted on your server. 
+
+
+
+
+TO-DO:
+-Add persistency
+-Server-Client communication over TOR
+-GUI for decryptor
