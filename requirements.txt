@@ -1,0 +1,5 @@
+pycryptodome
+requests
+colorama
+flask
+mysql.connector
